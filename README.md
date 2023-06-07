@@ -114,10 +114,10 @@ Execute the program
 # OUPUT
 #server output:
 ![image](https://github.com/prithviraj5703/timetable/assets/121418418/374c2bef-ef19-4933-bd65-5ccd5bd84125)
-#client output:
+# client output:
 ![image](https://github.com/prithviraj5703/timetable/assets/121418418/9c49edd2-4292-40b2-b11f-4a9ac497ef84)
-#HTML checker:
+# HTML checker:
 ![image](https://github.com/prithviraj5703/timetable/assets/121418418/f253e8b3-0fc7-41a7-be25-93911bffc080)
-#RESULT:
+# RESULT:
 Thus,the code has been executed successfully
 
